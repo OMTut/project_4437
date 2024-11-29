@@ -1,0 +1,7 @@
+path: D:/projects/TXST/cs4337/project_fb/model-trainer/dataset_SWT/
+train: images/train
+val: images/val
+
+nc: 2 # number of classes
+#names: ['With Helmet', 'Without Helmet']
+names: ['TXST', 'ASU']
